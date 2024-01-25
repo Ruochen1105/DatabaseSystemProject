@@ -1,5 +1,7 @@
 # DatabaseSystemProject
 
+Final project for Fall 2023 CSCI-GA - 2433 Database Systems. The project includes a Python script to pre-process raw data downloaded from the web, a Python script to CRUD a cloud SQL database (Microsoft Azure SQL Cloud), and a pair of Python scipts that follow the client-server architecture, where the client collects information from the user and the server fits user data into pre-trained regression models to make predictions as recommendations.
+
 ## How to use
 
 Make sure that all files are in the current working directory.
